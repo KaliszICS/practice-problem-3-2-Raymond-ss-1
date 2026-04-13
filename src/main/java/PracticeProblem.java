@@ -1,3 +1,10 @@
+/**
+        * File: Lesson 3.2 - 
+        * Author: Raymond
+        * Date Created: March 24, 2026
+        * Date Last Modified: April 13, 2026
+        */
+
 public class PracticeProblem {
 	
 	public static void main(String args[]) {
